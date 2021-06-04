@@ -11,7 +11,6 @@ section{
 h1{
 	margin: 0;
 	padding: 0 0 20px;
-	text-align: center;
 	font-size: 22px;
 }
 .SignUp Form input{
@@ -23,7 +22,7 @@ h1{
 {
 	border: none;
 	border-bottom: 1px solid orangered;
-	/* /* background: transparent;
+	/* background: transparent;
 	outline:black;
 	height: 40px;
 	color: brown; */
