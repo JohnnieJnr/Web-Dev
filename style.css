@@ -11,13 +11,13 @@ section{
 h1{
 	/* height: -100px; */
 	margin: 0;
-	padding: 0 0 20px;
+	padding: 0 0 5px;
 	font-size: 22px;
 }
 
 p{
 	margin: 0;
-	padding: 0 0 20px;
+	/* padding: 0 0 20px; */
 	font-size: 10px;
 	color: white;
 	height: 50px;
@@ -25,7 +25,7 @@ p{
 
 .SignUp{
 	width: 520px;
-	height: 520px;
+	height: 450px;
 	background: gray; 
 	color: #fff;
 	top: 50%;
@@ -33,7 +33,7 @@ p{
 	position: absolute;
 	transform: translate(-50%,-50%);
 	box-sizing: border-box;
-	padding: 70px 30px;
+	padding: 50px 60px;
 	border-radius: 10px;
 }
 .SignUp Form input{
