@@ -1,3 +1,3 @@
 Web-Dev Lessons
 
-![Screenshot from 2021-06-06 14-52-42](https://user-images.githubusercontent.com/52750509/120929060-017a6980-c6d7-11eb-87f4-a8e0ffc82f47.png)
+![Screenshot from 2021-06-06 15-42-36](https://user-images.githubusercontent.com/52750509/120930696-e8c18200-c6dd-11eb-809a-9b7a4c30c41c.png)
